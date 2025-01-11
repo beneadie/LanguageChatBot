@@ -4,8 +4,6 @@ from openai import OpenAI
 from collections import deque
 import os
 
-root = tk.Tk()
-root.iconbitmap("stellabot_logo.ico")
 
 # Modern color scheme
 BG_COLOR = "#f0f0f0"  # Light gray background
