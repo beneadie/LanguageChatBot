@@ -5,5 +5,5 @@ After installation, you likely will need to run it as administrator in order to 
 Currently only works on windows.
 
 
-![alt text](https://github.com/beneadie/LanguageChatBot/chatbot example.png?raw=true)
+![alt text](https://github.com/beneadie/LanguageChatBot/blob/main/chatbot%20example.png?raw=true)
 
